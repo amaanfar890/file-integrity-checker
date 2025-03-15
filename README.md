@@ -16,7 +16,7 @@
 
 ### Usage
 
-1. Clone the Repository:** If you're viewing this on GitHub, you can clone the repository to your local machine:
+1. Clone the Repository: If you're viewing this on GitHub, you can clone the repository to your local machine:
 
     ```bash
     git clone https://github.com/amaanfar890/file-integrity-checker.git
@@ -52,7 +52,7 @@ If `myfile.txt` is changed, the script might output something like this:
 
 File changed: myfile.txt
 Old hash: f29bc64a9d3732b4b9035125fdb3285f5b6455778edca72414671e0ca3b2e0de
-New hash: c6caa69a1dd061c76a987d67e1c1795b8440ce1b98b19f933c56b8f0e4ff5ec5
+  New hash: c6caa69a1dd061c76a987d67e1c1795b8440ce1b98b19f933c56b8f0e4ff5ec5
 
 # Contact:
 Email: faroquiamaan@gmail.com
